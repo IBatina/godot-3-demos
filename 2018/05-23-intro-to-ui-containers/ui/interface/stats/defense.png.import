@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/defense.png-8b8d6b0d2768bbacb8bab08d1cfd2790.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://ui/interface/stats/defense.png"
-source_md5="aebad286d971e6eba1337fad8967cfd0"
-
 dest_files=[ "res://.import/defense.png-8b8d6b0d2768bbacb8bab08d1cfd2790.stex" ]
-dest_md5="f79a71ff890d7fb61d991cbd9f62b844"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

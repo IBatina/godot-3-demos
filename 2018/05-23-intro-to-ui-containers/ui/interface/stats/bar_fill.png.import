@@ -3,20 +3,21 @@
 importer="texture"
 type="StreamTexture"
 path="res://.import/bar_fill.png-77fdef98404a8437ad1ff9754273d458.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://ui/interface/stats/bar_fill.png"
-source_md5="c8edf6a9b2dfeaaff3ca7a338ac8e72d"
-
 dest_files=[ "res://.import/bar_fill.png-77fdef98404a8437ad1ff9754273d458.stex" ]
-dest_md5="9166b862260775fabf05f3c2c58400d3"
 
 [params]
 
 compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_mode=0
+compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
 flags/filter=true
@@ -26,6 +27,8 @@ flags/srgb=2
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
